@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\MovieDiary\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\film_editing_view.xml",
+        "source": "D:\\MovieDiary\\app\\src\\main\\res\\layout\\film_editing_view.xml"
+    },
+    {
+        "merged": "D:\\MovieDiary\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\films_list_fragment.xml",
+        "source": "D:\\MovieDiary\\app\\src\\main\\res\\layout\\films_list_fragment.xml"
+    },
+    {
+        "merged": "D:\\MovieDiary\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\MovieDiary\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\MovieDiary\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\film_item_fragment.xml",
+        "source": "D:\\MovieDiary\\app\\src\\main\\res\\layout\\film_item_fragment.xml"
+    }
+]
